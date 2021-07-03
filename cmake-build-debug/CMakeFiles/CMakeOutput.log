@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: F:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++-Optimierungscompiler Version 19.28.29914 für x86
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "G:/LibJS/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: F:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++-Optimierungscompiler Version 19.28.29914 für x86
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "G:/LibJS/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: G:/LibJS/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_e9eeb\fast && 	"F:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_e9eeb.dir\build.make /nologo -L                  CMakeFiles\cmTC_e9eeb.dir\build
+Building C object CMakeFiles/cmTC_e9eeb.dir/testCCompiler.c.obj
+	"F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe" @C:\Users\Kevin\AppData\Local\Temp\nmFA40.tmp
+testCCompiler.c
+Linking C executable cmTC_e9eeb.exe
+	"F:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e9eeb.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- "F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_e9eeb.dir\objects1.rsp @C:\Users\Kevin\AppData\Local\Temp\nmFC16.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: G:/LibJS/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_eda42\fast && 	"F:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_eda42.dir\build.make /nologo -L                  CMakeFiles\cmTC_eda42.dir\build
+Building C object CMakeFiles/cmTC_eda42.dir/CMakeCCompilerABI.c.obj
+	"F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe" @C:\Users\Kevin\AppData\Local\Temp\nm126.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_eda42.exe
+	"F:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_eda42.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- "F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_eda42.dir\objects1.rsp @C:\Users\Kevin\AppData\Local\Temp\nm201.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: G:/LibJS/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_1e488\fast && 	"F:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_1e488.dir\build.make /nologo -L                  CMakeFiles\cmTC_1e488.dir\build
+Building CXX object CMakeFiles/cmTC_1e488.dir/testCXXCompiler.cxx.obj
+	"F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe" @C:\Users\Kevin\AppData\Local\Temp\nm55C.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_1e488.exe
+	"F:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1e488.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- "F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_1e488.dir\objects1.rsp @C:\Users\Kevin\AppData\Local\Temp\nm5F9.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: G:/LibJS/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_9340d\fast && 	"F:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_9340d.dir\build.make /nologo -L                  CMakeFiles\cmTC_9340d.dir\build
+Building CXX object CMakeFiles/cmTC_9340d.dir/CMakeCXXCompilerABI.cpp.obj
+	"F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe" @C:\Users\Kevin\AppData\Local\Temp\nm81B.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_9340d.exe
+	"F:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9340d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- "F:\Program Files (x86)\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_9340d.dir\objects1.rsp @C:\Users\Kevin\AppData\Local\Temp\nm889.tmp
+
+
+

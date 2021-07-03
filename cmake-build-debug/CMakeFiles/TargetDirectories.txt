@@ -1,0 +1,3 @@
+G:/LibJS/cmake-build-debug/CMakeFiles/LibJS.dir
+G:/LibJS/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/LibJS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
